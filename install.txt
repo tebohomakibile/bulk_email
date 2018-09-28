@@ -1,0 +1,12 @@
+1. Create a mySQL database.
+2. Upload files to your root Directory.
+3. Open your browser and browse to your root directory.
+4. Complete the complete the configuration form:
+    a. Database settings.
+    b. Mailgun settings.
+    c. System settings.
+5. Create a new user account.
+6. Login to the system.
+
+Webhooks need to be setup on your Mailgun account for event tracking.
+E.g: http://your_domain.com/root_directory/src/email/webhook.php

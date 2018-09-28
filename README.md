@@ -1,1 +1,2 @@
-bulk_email
+# bulk_mail
+PHP AJAX Mailgun Bulk Mailer
